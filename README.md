@@ -1,5 +1,5 @@
 # OpenAI Assistant Streaming Basic Starter
-This is a simple bare-bones example of streaming to the browser using OpenAI's Assistants API on  a node.js (Express) back end.
+This is a simple bare-bones example of streaming to the browser using OpenAI's Assistants API (Javascript SDK) on a node.js (Express) back end.
 
 Pull requests are welcome to correct errors or improve simplicity and clarity of the code. It's my hope that this will actually be useful for someone else as a template to start AI web applications.
 
