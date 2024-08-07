@@ -13,6 +13,8 @@ OPENAI_API_KEY=<your-OpenAI-API-key>
 ```
 Replace `<your-OpenAI-API-key>` with your actual key.
 
-In the server directory, run `node server.js`
+In the `server` directory, run `npm install`
+
+In the `server` directory, run `node server.js`
 
 Visit http://localhost:3005
