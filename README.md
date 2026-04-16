@@ -1,3 +1,5 @@
+# NOTE: Assistants API is now deprecated
+
 # OpenAI Assistant Streaming Basic Starter
 This is a simple bare-bones example of streaming to the browser using OpenAI's Assistants API (Javascript SDK) on a node.js (Express) back end. Uses [socket.io](https://socket.io).
 
